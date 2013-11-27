@@ -1,0 +1,3 @@
+#!/bin/sh
+
+java -jar /Users/kafka/code/lime/target/lime-0.1.0-SNAPSHOT-standalone.jar $@

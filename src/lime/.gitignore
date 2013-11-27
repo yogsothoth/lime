@@ -1,0 +1,13 @@
+uberdoc.html
+.DS_Store
+.cake
+pom.xml
+*jar
+lib
+classes
+out
+webgen.cache
+.lein-failures
+.lein-deps-sum
+docs/*.html
+target
